@@ -1,0 +1,661 @@
+// Society:
+ traffic police
+ accident
+ drivers
+ people
+ people
+ man
+ society
+ communication
+ public
+ social science
+ Group
+ community
+ company
+ friends
+ a country
+ crowd
+ school
+ world
+ family
+ state
+ thing
+ lesson
+ politics
+ to communicate
+ law
+ Job
+ conversation
+ environment
+ town
+ right
+ sociology
+ the collective
+ a life
+ community
+ power
+ opinion
+ the culture
+ lot
+ collection
+ population
+ personality
+ organization
+ public
+ knowledge
+ the general
+ firm
+ common
+ friendship
+ individual
+ regulations
+ interests
+ civilization
+ humanity
+ children
+ morality
+ cell
+ the class
+ nation
+ team
+ democracy
+ social
+ collection
+ shine
+ higher
+ relationship
+ consumption
+ elite
+ cream
+ female
+ Man
+ transport
+ social
+ land
+ money
+ story
+ commune
+ communication
+ social science
+ citizens
+ a circle
+ weight
+ the science
+ Street
+ study
+ love
+ rally
+ Colleagues
+ child
+ commonality
+ behavior
+ an association
+ partnership
+ a responsibility
+ member
+ word
+ system
+ theatre
+ together
+ circle
+ the consignment
+
+// Politics:
+ the president
+ deputy
+ state
+ politician
+ elections
+ a country
+ thought
+ law
+ power
+ the consignment
+ democracy
+ war
+ parliament
+ the minister
+ political
+ people
+ debate
+ world
+ constitution
+ government
+ people
+ corruption
+ mayor
+ politicians
+ official
+ society
+ meeting
+ voting
+ control
+ glad
+ the rights
+ monarchy
+ the governor
+ decree
+ court
+ senate
+ Ward
+ diplomat
+ ministry
+ system
+ bribe
+ agitation
+ candidate
+ political scientist
+ ruler
+ conversation
+ political science
+ external
+ internal
+ chapter
+ ambassador
+ advice
+ mandate
+ taxes
+ prime
+ sanctions
+ opposition
+ federation
+ diplomacy
+ leader
+ code
+ summit
+ power
+ contract
+ chancellor
+ Politburo
+ repression
+ socialism
+ reform
+ the pact
+ federalism
+ doctrine
+ consul
+ socialist
+ manifesto
+ anarchy
+ sovereignty
+ NATO
+ senator
+ ideology
+ Marxism
+ capitalism
+ Secretary General
+ countries
+ UN
+ authoritarian
+ communist
+ Communist Party
+ restructuring
+ revolution
+ deputies
+ bureaucracy
+ residence
+ presidency
+ republic
+ moratorium
+ declaration
+ authority
+ the chairman
+ governing body
+ City Hall
+ reformer
+ congress
+ militia
+ embassy
+ the committee
+ protest
+ advisor
+ slogan
+ candidacy
+ nationalist
+ 
+// Elections:
+ the president
+ deputy
+ elections
+ voting
+ vote
+ to choose
+ candidate
+ debate
+ newsletter
+ the consignment
+ vote
+ thought
+ power
+ parliament
+ voter
+ mayor
+ a country
+ democracy
+ referendum
+ agitation
+ nominee
+ candidacy
+ deputies
+ inauguration
+ sample
+ politician
+ mandate
+ chosenness
+ party member
+ party
+ fraction
+ urn
+ falsification
+ leaflet
+ challenger
+ presidency
+ most
+ the governor
+ selection
+ headquarters
+ official
+ City Hall
+ the chairman
+ observer
+ government
+ the minister
+ senator
+ state
+ company
+ Politburo
+ party card
+ congress
+ propaganda
+ communist
+ meeting
+ citizen
+ governing body
+ slogan
+ delegation
+ socialism
+ the committee
+ presidium
+ rating
+ republic
+ position
+ rally
+ collection
+ coat of arms
+ lot
+ participant
+ chancellor
+ publicity
+ bureaucracy
+ minority
+ crowd
+ participation
+ opinion
+ conversation
+ plot
+ total
+ Liberty
+
+// Legislation:
+ court
+ constitution
+ right
+ the rule
+ judge
+ code
+ order
+ lawyer
+ prison
+ state
+ lawyer
+ violation
+ law
+ police
+ Legislation
+ the crime
+ power
+ violate
+ the prosecutor
+ prosecutor's office
+ police
+ punishment
+ criminal
+ thought
+ man
+ decree
+ charter
+ a country
+ thief
+ vault
+ follow
+ ban
+ protection
+ legislator
+ sentence
+ parliament
+ legality
+ intruder
+ justice
+ compliance
+ fine
+ document
+ legalist
+ iniquity
+ defendant
+ law
+ regularity
+ people
+ physics
+ deputy
+ prosecutor's office
+ order
+ Liberty
+ society
+ Adoption
+ take
+ subordination
+ obedience
+ bill
+ decree
+ legally
+ upset
+ murder
+ citizen
+ illegally
+ a business
+ arrest
+ norm
+ true
+ to accept
+ bailiff
+ criminal
+ criminal
+ robbery
+ prisoner
+ restriction
+ the rights
+ regulations
+ laws
+ justice
+ manifesto
+ policeman
+ amendment
+ mayhem
+ statement
+ crime
+ corruption
+ criminal
+ criminal
+ smuggling
+ declaration
+ crime
+ bribe
+ moratorium
+ doctrine
+ demand
+ non-compliance
+ amnesty
+ understood
+ City Hall
+ intruder
+ authority
+ authority
+ fake
+ theft
+ fraud
+ blackmail
+ convicted
+ protocol
+ governing body
+ investigator
+ the department
+ disposition
+ verdict
+ damage
+ kidnapper
+ condition
+ dictatorship
+ client
+ prosecutor
+ con man
+ accusation
+
+// Occurrence:
+ accident
+ happening
+ event
+ trouble
+ occurred
+ fire
+ flood
+ death
+ accident
+ adventure
+ the procession
+ murder
+ situation
+ car
+ tragedy
+ bad
+ woe
+ catastrophe
+ emergency
+ It happened
+ earthquake
+ horror
+ flooding
+ road
+ hospital
+ danger
+ fight
+ theft
+ badly
+ sadness
+ Hurricane
+ incident
+ wreck
+ protocol
+ misfortune
+ road
+ eyewitnesses
+ events
+ sensation
+ witness
+ misunderstanding
+ trouble
+ chronicle
+ circumstance
+ panic
+ understood
+ props
+ reportage
+ mystery
+ cataclysm
+ hitting
+ episode
+ phenomenon
+ shock
+ ditch
+ Adventures
+ injured
+ culprit
+ witnesses
+ disaster
+ consequence
+ confluence
+ indication
+ the passage
+ precedent
+ epic
+ accomplishment
+ gai
+ anxiety
+ confluence
+ indication
+ involvement
+ act
+ consequence
+ news
+ fencing
+ detail
+ surprise
+ eyewitness
+// Crime:
+ punishment
+ murder
+ criminal
+ jail
+ court
+ thief
+ police
+ theft
+ theft
+ law
+ police
+ killer
+ term
+ pistol
+ lawyer
+ book
+ judge
+ robbery
+ the prosecutor
+ handcuffs
+ violation
+ robbery
+ criminal
+ bank
+ ax
+ bandit
+ man
+ a business
+ ooh
+ evidence
+ weapons
+ razoy
+ article
+ crime
+ zone
+ alibi
+ arrest
+ money
+ camera
+ death
+ act
+ investigator
+ the fault
+ punishment
+ hijacking
+ execution
+ blood
+ a place
+ motive
+ novel
+ trait
+ code
+ bad
+ judge
+ sentence
+ criminal
+ rape
+ jury
+ criminal
+ disclosure
+ partner in crime
+ investigation
+ impunity
+ witnesses
+ suspect
+ criminal
+ witness
+ accomplice
+ blackmail
+ misconduct
+ suspicion
+ consequence
+ crime
+ understood
+ affect
+ intruder
+ involvement
+ relapse
+ tip
+ abduction
+ attempt
+ follow
+ committing
+ search
+ defendant
+ theft
+ accused
+ accusation
+ client
+ prints
+ fingers
+ kill
+ exposure
+ smuggling
+ hooliganism
+ eyewitness
+ prisoner
+ act
+ testimony
+ mayhem
+ detective
+ indication
+ convicted
+ interrogation
+ fraud
+ hitting
+ victim
+ beatings
+ appropriation
+ culprit
+ handcuff
+ shackles
+ hostage
+ kidnapper
+ witness
+ gallows
+ fraud
+ detention
+ scam
+ amnesty
+ setup
+ attack
+ defendant
+ prosecutor's office
+ operative
+ wanted
+ collusion
+ execution
+ protocol
+ executioner
+ gang
+ detective
+ evidence
+ maniac
+ consequence
+ screams
+ culprit
+ chantrap
+ corruption
+ policeman
+ prosecutor
+ intruder
+ track
+ sin
+ disassembly
+ violence
+ precinct
+ prisoner
+ intent
+ robber
+ inquisition
+ the colony
+ mafia
+ violence
+ the Punisher
+ act of terrorism
+ poacher
+ statement

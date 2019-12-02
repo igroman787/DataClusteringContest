@@ -1,0 +1,485 @@
+// Technology:
+ website
+ application
+ screenshot
+ register
+ technology
+ Technics
+ technologist
+ lesson
+ work
+ production
+ the science
+ techno
+ thing
+ Job
+ a computer
+ school
+ process
+ nano
+ car
+ new
+ manufacturing
+ way
+ progress
+ cooking
+ plant
+ Group
+ logics
+ technician
+ phone
+ robot
+ development
+ technological
+ development
+ man
+ new
+ technical
+ mechanism
+ TV
+ invention
+ technological
+ to sew
+ innovation
+ method
+ do
+ order
+ scheme
+ sewing
+ teacher
+ technologies
+ the Internet
+ breakthrough
+ skill
+ the choice
+ the rule
+ innovation
+ art
+ modern
+ mastery
+ novelty
+ study
+ methodology
+ instruction
+ nanotechnology
+ Japan
+ physics
+ the control
+ product
+ future
+ the tablet
+ a business
+ action
+ century
+ plan
+ iPhone
+ chemistry
+ scientists
+ engineer
+ algorithm
+ technical College
+ performance
+ industry
+ appliance
+ production
+ people
+ sequence
+ scientist
+ quality
+ treatment
+ methodology
+ magic
+ master
+ know-how
+ apparatus
+ industry
+ system
+ complex
+ factory
+ profession
+ needlework
+ electronics
+ equipment
+ time
+ laser
+ cardboard
+ idealization
+ radio interception
+ stabilization
+ malfunctions
+ user
+ button
+ builder
+ tactician
+ sensor
+ launch
+ inauguration
+
+// Gadgets:
+ phone
+ the tablet
+ a computer
+ smartphone
+ iPhone
+ a laptop
+ player
+ the Internet
+ technologies
+ Technics
+ android
+ the game
+ clock
+ communication
+ navigator
+ electronics
+ novelty
+ TV
+ mouse
+ gadgets
+ keyboard
+ device
+ fashion
+ listen
+ man
+ headphones
+ mobile
+ century
+ progress
+ inspector
+ innovation
+ console
+ modernity
+ special agent
+ mobile phone
+ apparatus
+ charge
+ appliance
+ technology
+
+// Auto:
+ car
+ wheel
+ car
+ road
+ driver
+ steering wheel
+ bus
+ machine
+ engine
+ go
+ speed
+ petrol
+ gas
+ brake
+ a door
+ car wash
+ the rights
+ mark
+ tram
+ transport
+ tires
+ robot
+ salon
+ riding
+ underground
+ Taxi
+ accident
+ to drive
+ to ride
+ track
+ passenger
+ clutch
+ hood
+ chauffeur
+ box
+ purchase
+ seat
+ man
+ traffic
+ spare part
+ motorcycle
+ bike
+ autobahn
+ cars
+ car mechanic
+ authoritarian
+ car
+ autopilot
+ service
+ motor depot
+ motorist
+ auto parts
+ motorway
+ Mercedes
+ pen
+ foreign car
+ wheelbarrow
+ limousine
+ Audi
+ Mercedes Benz
+ machine gunner
+ headlights
+ parking
+ cars
+ BMW
+ camber
+ trunk
+ subcompact
+ autograph
+ highway
+ driving
+ garage
+ gelding
+ stuffing box
+ authority
+ sales
+ fret
+ body
+ gas station
+ racer
+ gazelle
+ race
+ turn
+ gai
+ gas station
+ battery
+ Stop
+ bolts
+ motor
+ kamaz
+ truck
+ headlamp
+ insurance
+ sheathing
+ Lada
+ the tire
+ motorcade
+ race
+ shock absorber
+ typewriter
+ vinyl
+ fort
+ suspension
+ ditch
+ traveling
+ gear
+ prototype
+ muffler
+ biography
+ expensive
+ locksmith
+ check out
+ detail
+ pedal
+ border
+ passengers
+ buyer
+ amateur
+ traffic regulations
+ movement
+ radiator
+ taxi driver
+ signaling
+ hire
+ parking
+ disassembly
+ lever arm
+ owner
+ diagnostics
+ arrival
+ van
+ six
+ polishing
+ the details
+ column
+ Technics
+ wheels
+ rubber
+
+// Applications:
+ the game
+ addition
+ phone
+ a computer
+ program
+ the Internet
+ free
+ screen
+ bonus
+ scheme
+ download
+ accessory
+ the tablet
+ instagram
+ the attachment
+ update
+ version
+ user
+ mobile phone
+ mobile
+ message
+ 
+// Internet services:
+ net
+ site
+ a computer
+ communication
+ connection
+ games
+ google
+ information
+ web
+ contact
+ classmates
+ browser
+ Search
+ Yandex
+ modem
+ video
+ a laptop
+ phone
+ cable
+ movies
+ people
+ post office
+ wikipedia
+ provider
+ friends
+ music
+ chat room
+ acquaintance
+ addiction
+ router
+ facebook
+ time
+ Job
+ traffic
+ social network
+ Pictures
+ speed
+ keyboard
+ world
+ the tablet
+ man
+ instagram
+ internet
+ study
+ twitter
+ page
+ wires
+ mouse
+ the mouse
+ knowledge
+ help
+ server
+ monitor
+ search engine
+ posts
+ the web
+ a photo
+ link
+ torrent
+ program
+ online
+ ip
+ the blog
+ comp
+ mail
+ a life
+ opera
+ the answers
+ tweeter
+ Wi-Fi
+ score
+ worldwide
+ telegram
+ compound
+ technologies
+ connection
+ wireless
+ quick
+ mobile
+ memes
+ spam
+ domain
+ selfie
+ access
+ a printer
+ surfing
+ hosting
+ host
+ online
+ system administrator
+ forum
+ smiley face
+ hacker
+ in contact with
+ smile
+ computerization
+ computer science
+ the wire
+ limit
+ mobile phone
+ programmer
+ portal
+ the content
+ file
+ password
+ like
+ CPU
+ cell
+ signalman
+ message
+ gadget
+ setting
+ request
+ TV series
+ charging
+ rate
+ announcement
+ attachment
+ a source
+ availability
+ report
+ pages
+ globalization
+ synchronization
+ to study
+ interest
+ antenna
+ civilization
+ profile
+ communication
+ glitch
+ to chat
+ Spread
+ tutorial
+ resources
+ picture
+ to seek
+ grid
+ electricity
+ polyglot
+ leisure
+ sway
+ status
+ navigation
+ subscriber
+ interlocutor
+ sms
+ publication
+ system
+ roller
+ world
+ virus
+ know
+ interpreter
+ service
+ technology
+ sim card
+ flash drive
+ broadcast
+ customization
+ foxtrot
+ transmitter
+ use

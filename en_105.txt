@@ -1,0 +1,772 @@
+// Movie
+movie
+comedy
+horrors
+TV series
+actor
+cinema
+movie
+TV
+popcorn
+thriller
+fantasy
+action movie
+melodrama
+fantasy
+genre
+view
+actress
+drama
+director
+cartoon
+plot
+producer
+ticket
+theatre
+screen
+cartoons
+tragedy
+romance
+people
+role
+poster
+session
+film
+detective
+scenario
+adventure
+Hall
+tape
+camera
+shooting
+inhabitants
+horror
+premiere
+good
+new
+old
+documentary
+hero
+Film Festival
+adventure
+popular science
+
+// Movie
+row
+a place
+laugh
+cola
+viewer
+operator
+frame
+glasses
+cinema
+cinema hall
+scene
+date
+film
+kiss
+the game
+captions
+artist
+art
+time
+tears
+picture
+sound
+role
+evening
+video
+display
+advertising
+film strip
+fear
+installation
+music
+screenwriter
+staging
+entertainment
+a television
+Hollywood
+shine
+studio
+mosfilm
+filmmaker
+artist
+Oscar
+episode
+heroine
+camcorder
+stuntman
+sight
+fragment
+viewer
+television company
+Studio
+tv channel
+Scenery
+intermission
+cassette
+anime
+superstar
+visit
+form
+short story
+chronicle
+casting
+masterpiece
+sponsor
+visitor
+playwright
+release
+animation
+movie
+story
+cinema art
+
+// Music
+song
+sound
+guitar
+rock
+piano
+melody
+notes
+violin
+musician
+singer
+tool
+concert
+jazz
+composer
+headphones
+pop
+orchestra
+listen
+singing
+dance
+opera
+classic
+rap
+Group
+hearing
+play
+drum
+player
+vote
+bang
+rap
+pops
+the flute
+sing
+the words
+the piano
+executor
+note
+piano
+singer
+symphony
+radio
+love
+loud
+rhythm
+loud
+record player
+scene
+sounding
+genre
+vocals
+songs
+cello
+muse
+volume
+accordion
+club
+trumpet
+speakers
+plate
+composition
+soul
+quiet
+microphone
+performance
+bass
+tact
+ballet
+the choir
+clip
+track
+waltz
+compose
+balalaika
+musical
+ears
+classic
+mi
+re
+blues
+disk
+key
+punk
+metal
+style
+album
+conductor
+feelings
+disco
+tambourine
+sounds
+rapper
+chord
+octave
+speaker
+a pipe
+cantata
+quartet
+maestro
+radiola
+party
+harmonic
+speakers
+solfeggio
+play music
+record player
+gramophone
+etude
+a party
+nirvana
+song
+trance
+violinist
+repertoire
+drum
+vinyl
+bow
+keys
+successor
+equipment
+drummer
+neighbors
+anthem
+organist
+strings
+radio
+creativity
+flamenco
+mix
+foxtrot
+stereo tube
+couplet
+choral
+drummer
+in contact with
+play the pipe
+sings
+dance floor
+radio station
+dancer
+nostalgia
+string
+samba
+partying
+listener
+march
+rating
+chart
+rumba
+performer
+aerobics
+dancer
+twist
+range
+casket
+salsa
+repetition
+polka
+dynamics
+drive
+dancing
+lesson
+rhythm
+instrumental
+symphony
+vote
+text
+chorus
+poems
+hit
+composer
+karaoke
+rhyme
+solo
+clip
+record
+stage
+duet
+motive
+star
+mood
+sound recording
+execution
+show
+aria
+soloist
+soloist
+chanson
+soundtrack
+Eurovision
+folk
+chords
+beautiful
+popular
+children’s
+chapel
+ditties
+lullaby
+rhymes
+guitar player
+synthesizer
+baritone
+disco
+round dance
+styles
+talent
+harp
+DJ
+song
+
+// Dance
+waltz
+tango
+music
+traffic
+disco
+couple
+ballet
+dance
+partner
+ball
+club
+suit
+sambo
+salsa
+rumba
+ballroom
+celebration
+stretching
+dance floor
+hop
+shoes
+dancing
+dancer
+house
+disco
+passion
+folk
+move
+choreographer
+festival
+high school graduation
+casting
+circle
+hobby
+toastmaster
+parquet
+wedding
+flexibility
+occupation
+training
+section
+spark off
+banquet
+dress
+hall
+feast
+competition
+contestants
+tour
+evening
+dancing
+dancing
+paired
+
+// Games
+hide and seek
+computer
+children
+play
+chess
+cards
+checkers
+football
+the game
+catch up
+tabletop
+poker
+leisure
+friends
+doll
+Street
+fun
+the yard
+salki
+dominoes
+childhood
+shooting games
+role
+lotto
+excitement
+kindergarten
+toys
+the Internet
+console
+the tablet
+camp
+smartphone
+addiction
+phone
+site
+monitor
+gambling
+olympic
+regulations
+conditions
+monopoly
+sport
+sports
+basketball
+volleyball
+tennis
+golf
+hockey
+children’s
+losing
+lotto
+casino
+player
+team
+victory
+ball
+hide and seek
+fun
+tote
+a toy
+exchange
+
+// Books
+to read
+write
+writer
+library
+book
+school
+pages
+literature
+story
+author
+textbook
+book
+reader
+learn
+student
+reading
+the letters
+sheet
+score
+a shelf
+novel
+the words
+circulation
+Bible
+knowledge
+encyclopedia
+poems
+paper
+book
+comfort
+poet
+ABC
+fairy tale
+line
+notebook
+teacher
+detective
+bookmark
+buy
+fantasy
+a shelf
+rack
+textbooks
+librarian
+archive
+shelf
+typography
+waste paper
+backpack
+smart ass
+portfolio
+study
+collection
+philosopher
+education
+polyglot
+magazines
+intellectual
+Exhibition
+holiday
+compilation
+the stories
+allowance
+poetry
+poems
+novels
+cover
+binding
+story
+Tom
+hero
+title
+content
+heading
+chapter
+the science
+poem
+genre
+prose
+publishing house
+publisher
+primer
+edition
+composition
+vocabulary
+mind
+paragraph
+best-seller
+plot
+font
+table of contents
+composition
+the character
+manuscript
+electronic
+interesting
+memoir
+prologue
+epigraph
+title
+paragraph
+instance
+reader
+directory
+co-author
+excerpt
+section
+footnote
+scientific
+illustration
+epic
+review
+the books
+introduction
+prose writer
+foreword
+literary critic
+the narrative
+publication
+count
+knowledge
+quatrain
+review
+rhyme
+U-turn
+retelling
+quotes
+cliche
+introduction
+
+// Art
+picture
+artist
+music
+painting
+the museum
+sculpture
+theatre
+drawing
+talent
+creation
+the beauty
+drawing
+movie
+paints
+gallery
+paint
+architecture
+ballet
+literature
+Exhibition
+the culture
+brush
+artificial
+writer
+poet
+landscape
+poetry
+art
+the books
+singing
+a statue
+masterpiece
+portrait
+canvas
+creation
+sculptor
+musician
+composition
+create
+man
+muse
+opera
+composer
+art
+movie
+pencil
+inspiration
+art critic
+design
+monument
+still life
+master
+tassel
+Renaissance
+mastery
+songs
+concert
+a photo
+creator
+graffiti
+easel
+producer
+cinema
+watercolor
+architect
+rebirth
+thoughts
+work
+clay
+oil
+scene
+modern
+fine
+the victims
+artistic
+musical
+restoration
+engraving
+philharmonic society
+origami
+canvas
+product
+sculpt
+statuette
+needlework
+thread
+wood
+creature
+drawings
+etude
+imagination
+column
+exposition
+applique
+caricature
+potter
+portraits
+creator
+coloring book
+cult
+nature
+picture
+contemporary
+Photo
+script
+pattern
+exhibit
+workshop
+conservatory
+china
+the ability
+lyre
+album
+technology
+value
+sketch
+wonderworker
+Sight
+Technics
+sculpture
+architecture
+own
+
+// Entertainment
+the game
+have fun
+fun
+recreation
+laugh
+joy
+celebration
+friends
+club
+the park
+smile
+movie
+leisure
+sport
+children
+a party
+enthusiasm
+fun
+the circus
+music
+clowns
+show
+swing
+happiness
+vacation
+booze
+balloons
+bowling
+travel
+pleasure
+attraction
+carousel
+buffoon
+shooting gallery
+ride
+dolphinarium
+aquapark
+rollers
+weekend
+shopping
+diving
+snowboard
+skates
+sled
+extreme
+entertainment
+representation
+jokes
+zoo
+skateboard
+humor
+rink
+joke
+picnic
+swimming pool
+TV series
+bike
+fishing
+rebus
+free
+popular
